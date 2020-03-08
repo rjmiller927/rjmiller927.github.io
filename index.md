@@ -2,6 +2,19 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
-
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+
+## Ryan Miller
+Welcome to my professional portfolio! Below is information on my personal projects, professional experience, research, and resume.
+
+## Experience
+
+## Education
+
+## Research
+* Audio Source Separation
+
+## Links
+* [LinkedIn Profile](https://www.linkedin.com/in/ryan-miller-1aa8355a/)
+
+
