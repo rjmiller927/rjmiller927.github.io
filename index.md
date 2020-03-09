@@ -12,8 +12,8 @@ Welcome to my professional portfolio! Below is information on my personal projec
 
 ## Research
 * Detection of the Effect of Window Duration in an audio Source Separation Paradigm
-** R. Miller, E. Tarr, & W. Bulla, 147th AES Convention, New York, NY, USA (Oct 2019)
-** [Paper](http://www.aes.org/e-lib/browse.cfm?elib=20625)
+  * R. Miller, E. Tarr, & W. Bulla, 147th AES Convention, New York, NY, USA (Oct 2019)
+  * [Paper](http://www.aes.org/e-lib/browse.cfm?elib=20625)
 
 ## Links
 * [LinkedIn Profile](https://www.linkedin.com/in/ryan-miller-1aa8355a/)
