@@ -4,8 +4,8 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 
 And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
 
-## Ryan Miller
 Welcome to my professional portfolio! Below is information on my personal projects, professional experience, research, and resume.
+![Headshot](photos/Professional Headshots/RyanMiller.jpg)
 
 ## Experience
 
