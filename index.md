@@ -1,4 +1,5 @@
 Welcome to my professional portfolio! Below is information on my personal projects, professional experience, research, and resume.
+
 ![Headshot](images/RyanMiller2.jpg)
 
 1. TOC
