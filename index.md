@@ -3,7 +3,7 @@ Hello and welcome to this blog. Edit the `index.md` file to change this content.
 Welcome to my professional portfolio! Below is information on my personal projects, professional experience, research, and resume.
 ![Headshot](images/RyanMiller2.jpg)
 
-* TOC
+1. TOC
 {:toc}
 
 ## Experience
