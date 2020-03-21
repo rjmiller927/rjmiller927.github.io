@@ -12,5 +12,7 @@ Welcome to my professional portfolio! I am an audio engineer with interests in d
 
 
  All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/).
+ 
+ ---
 
 
