@@ -1,18 +1,20 @@
-## 1) A Perceptual Evaluation of Short-Time Fourier Transform Window Duration and Cost Function on Non-negative Matrix Factorization Audio Source Separation
+### Masters Thesis
+
+A Perceptual Evaluation of Short-Time Fourier Transform Window Duration and Cost Function on Non-negative Matrix Factorization Audio Source Separation
   * Master's Thesis as part of the M.S. in Audio Engineering at Belmont University in Nashville, TN
   * Full Paper: In Progress...
   * [Masters Thesis](https://rjmiller927.github.io/2020/03/21/masterThesis.html)
 
-### MATLAB Code
+#### MATLAB Code
 Code was modified from N. Bryan, D. Sun and E. Cho, "Extensions and interpretations to non-negative matrix factorization," in Single-Channel Source Separation Tutorial Mini-Series, Stanford, CA, USA, 2013. 
 
 * Main Script: <a href="https://rjmiller927.github.io/matlabCode/mainScript_Published.pdf" target="_blank">PDF.</a>
 * NMF Function: <a href="https://rjmiller927.github.io/matlabCode/nmfSS.pdf" target="_blank">PDF.</a>
 * Spectrogram Code: From ``Spectral Audio Signal Processing'', by Julius O. Smith III. [STFT](https://ccrma.stanford.edu/~jos/sasp/Matlab_listing_myspectrogram_m.html) and [ISTFT](https://ccrma.stanford.edu/~jos/sasp/Matlab_listing_invmyspectrogram_m.html)
 
-### Audio Files - Experiment 2, Effect of Cost Function on Residual Noise Level
+#### Audio Files - Experiment 2, Effect of Cost Function on Residual Noise Level
 ---
-#### Male Talker, Speech Shaped Noise
+##### Male Talker, Speech Shaped Noise
   * Reference
   <iframe
    frameborder="0"
@@ -48,7 +50,7 @@ Code was modified from N. Bryan, D. Sun and E. Cho, "Extensions and interpretati
    src="https://drive.google.com/file/d/1ZwC85tJgLEPP2AbQ4lwkz71kdG5X8Aws/preview?usp=sharing">
   </iframe>
   
-#### Male Talker, Conversation "babble" noise
+##### Male Talker, Conversation "babble" noise
   * Reference
   <iframe
    frameborder="0"
@@ -81,7 +83,7 @@ Code was modified from N. Bryan, D. Sun and E. Cho, "Extensions and interpretati
    src="https://drive.google.com/file/d/1sRMl5NyrFlUpR5uMlXtaMDiEHMEF862E/preview?usp=sharing">
   </iframe>
   
-#### Female Talker, Speech Shaped Noise
+##### Female Talker, Speech Shaped Noise
   * Reference
   <iframe
    frameborder="0"
@@ -114,7 +116,7 @@ Code was modified from N. Bryan, D. Sun and E. Cho, "Extensions and interpretati
    src="https://drive.google.com/file/d/1j1phNYFSeQX2nWkc8SztK7A8QKHOCDMN/preview?usp=sharing">
   </iframe>
 
-#### Female Talker, Conversation "babble" noise
+##### Female Talker, Conversation "babble" noise
   * Reference
   <iframe
    frameborder="0"
