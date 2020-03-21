@@ -2,11 +2,6 @@ Welcome to my professional portfolio! I am an audio engineer with interests in d
 
 ![](/images/RyanMiller2.jpg)
 
-<p align="center">
-  <img width="325" height="300" src=https://rjmiller927.github.io/images/RyanMiller2.jpg>
-</p>
-
-
 ## Links
 * [LinkedIn Profile](https://www.linkedin.com/in/ryan-miller-1aa8355a/)
 * [GitHub Page](https://github.com/rjmiller927)
