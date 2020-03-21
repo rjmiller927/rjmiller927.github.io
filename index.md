@@ -1,5 +1,7 @@
 Welcome to my professional portfolio! I am an audio engineer with interests in digital signal processing, machine learning, acoustics, and audio research. See the blog posts below for information on my personal projects, professional experience, research, and resume.
 
+![](/images/RyanMiller2.jpg)
+
 <p align="center">
   <img width="325" height="300" src=https://rjmiller927.github.io/images/RyanMiller2.jpg>
 </p>
