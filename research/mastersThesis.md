@@ -1,7 +1,10 @@
 **Masters Thesis:**
 
 _A Perceptual Evaluation of Short-Time Fourier Transform Window Duration and Cost Function on Non-negative Matrix Factorization Audio Source Separation_
-  * Master's Thesis as part of the M.S. in Audio Engineering at Belmont University in Nashville, TN
+
+In partial fullfillment of the requirements for the degree of Master of Science in Audio Engineering from Belmont University in Nashville, TN
+
+_Abstract:_ 
   * Full Paper: In Progress...
 
 #### MATLAB Code
