@@ -4,6 +4,8 @@ Welcome to my professional portfolio! I am an audio engineer with interests in d
 
 ## [Research](https://rjmiller927.github.io/research/researchPage.html)
 
+## [Education](https://rjmiller927.github.io/education/educationPage.html)
+
 ## Links
 * [LinkedIn Profile](https://www.linkedin.com/in/ryan-miller-1aa8355a/)
 * [GitHub Page](https://github.com/rjmiller927)
