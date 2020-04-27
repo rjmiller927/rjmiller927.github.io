@@ -8,6 +8,7 @@ _Abstract:_
   * Full Paper: In Progress...
 
 <p>
+</p>
 
 #### MATLAB Code
 Code was modified from N. Bryan, D. Sun and E. Cho, "Extensions and interpretations to non-negative matrix factorization," in Single-Channel Source Separation Tutorial Mini-Series, Stanford, CA, USA, 2013. 
